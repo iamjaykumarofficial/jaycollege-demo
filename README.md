@@ -1,3 +1,4 @@
 # jaycollege-demo
 this is my first repository.
-Author - Jay Kumar Choudhary
+<br>
+Author - Jay Kumar Choudhary.
